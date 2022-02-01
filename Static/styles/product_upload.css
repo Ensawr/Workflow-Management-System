@@ -1,0 +1,65 @@
+/* SEARCH BAR */
+.search_in {
+    width: 20%;
+}
+
+
+/* SEARCH BAR */
+
+/* TABLE */
+
+#table-board {
+    overflow-y: scroll;
+    height: 80vh;
+}
+
+td,
+th {
+    text-align: center;
+}
+
+.product_browse {
+    width: 22%;
+}
+
+.product_buttons {
+    width: 22%;
+}
+
+.btn {
+    margin-bottom: 10px;
+}
+
+/* Buttons */
+
+.btn-warning {
+    color: white;
+}
+
+.btn-warning:hover {
+    background-color: black;
+    border: black;
+    color: white;
+}
+
+.btn-primary:hover {
+    background-color: black;
+    border: black;
+}
+
+.btn-success:hover {
+    background-color: black;
+    border: black;
+}
+
+.btn-danger {
+    background-color: #c9008c;
+}
+
+.btn-danger:hover {
+    background-color: black;
+    border: black;
+}
+
+
+/* TABLE */

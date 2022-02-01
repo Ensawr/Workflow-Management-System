@@ -1,0 +1,28 @@
+body{
+    height: 80vh;
+}
+
+.container {
+    margin-top: 4%;
+}
+
+h2 {
+    color: #3a3a3a;
+    font-weight: bold;
+}
+
+.card-link {
+    color: #3a3a3a;
+    font-weight: bold;
+}
+
+.card-link:hover {
+    color: #000000;
+    font-weight: bold;
+}
+
+.placer {
+    float: right;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}

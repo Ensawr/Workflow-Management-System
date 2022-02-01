@@ -1,0 +1,84 @@
+body {
+    margin-left: 5%;
+    margin-right: 5%;
+    height: 80vh;
+}
+
+.left-table {
+    margin-top: 5%;
+    width: 49%;
+    height: 75%;
+    float: left;
+
+}
+
+.right-table {
+    margin-top: 5%;
+    margin-left: 2%;
+    width: 49%;
+    height: 75%;
+    float: left;
+
+
+}
+
+.search {
+    width: 15%;
+    position: absolute;
+    padding-top: 1%;
+}
+
+.DeleteAndStd {
+    float: right;
+}
+
+#buttons {
+    margin-right: 0;
+    padding-top: 1%;
+    float: right;
+    width: 36%;
+    display: none;
+}
+
+.space {
+    margin-left: 7%;
+}
+
+.icon-margin {
+    margin-bottom: 2%;
+}
+
+.slicer {
+    width: 100%;
+    margin-top: 25%;
+}
+
+
+/* Product_edit sayfasındaki tablonun */
+
+
+.product_edits {
+    margin-left: 4%;
+    margin-right: 4%;
+}
+
+.my-custom-scrollbar {
+    position: relative;
+    height: 70%;
+    overflow: auto;
+}
+
+.table-wrapper-scroll-y {
+    display: block;
+}
+
+.product_edit_search {
+    margin-top: 4%;
+    margin-left: 4%;
+    width: 15%;
+}
+
+
+.photos {
+    width: 150px;
+}

@@ -1,0 +1,30 @@
+.card-header {
+    text-align: center;
+}
+
+#card_container {
+    width: 50%;
+    margin-left: 20%;
+    overflow-y: scroll;
+    height: 50rem;
+}
+
+.photo {
+    width: 78%;
+}
+
+.choose_file {
+    position: absolute;
+    padding-top: 20%;
+    margin-left: 15%;
+}
+
+.change {
+    position: absolute;
+    margin-top: 30%;
+    margin-left: 15%;
+}
+
+img {
+    width: 100%;
+}
